@@ -1,0 +1,14 @@
+C:\Users\kekich\source\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.exe
+C:\Users\kekich\source\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.deps.json
+C:\Users\kekich\source\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.runtimeconfig.json
+C:\Users\kekich\source\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.dll
+C:\Users\kekich\source\repos\BankApp\BankApp\bin\Debug\net8.0\BankApp.pdb
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfoInputs.cache
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.AssemblyInfo.cs
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.csproj.CoreCompileInputs.cache
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.dll
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\refint\BankApp.dll
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.pdb
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\BankApp.genruntimeconfig.cache
+C:\Users\kekich\source\repos\BankApp\BankApp\obj\Debug\net8.0\ref\BankApp.dll
